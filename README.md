@@ -1,1 +1,2 @@
-# BasesNumericas-master
+# BasesNumericas
+ejercicio programación
